@@ -1,0 +1,23 @@
+p {
+  font-family: monospace;
+  font-size: 150%
+}
+
+body {
+  background-color: floralwhite;
+  padding:30px;
+}
+
+ul {
+  font-family: monospace;
+  color:black;
+  font-size:15pt;
+}
+
+input {
+  font-family: monospace;
+  background-color: floralwhite;
+  border: none;
+  color:black;
+   font-size: 150%
+}
